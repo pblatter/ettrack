@@ -1,0 +1,11 @@
+**.pyc
+*.png
+*.pyc
+*.csv
+local.py
+tracking_results/
+logs/
+*.log
+result_plots/
+segmentation_results/
+*/logs/

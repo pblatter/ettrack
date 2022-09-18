@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a5c5f023-a18a-4f98-8d5d-9e81a46da02a" name="apex">
+        <fileTransfer accessType="SFTP" host="172.23.234.117" port="22" sshConfigId="07e39728-8cbd-427c-9732-5828232d5ee5" sshConfig="v-yanbi@172.23.234.117:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
