@@ -4,7 +4,7 @@ E.T.Track utilized our proposed Exemplar Transformer, a transformer module utili
 E.T.Track is up to 8x faster than other transformer-based models, and consistently outperforms competing lightweight trackers that can operate in realtime on standard CPUs. 
 
 
-E.T.Track        |  Our Exemplar Attention (right) vs the [standard attention](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) 
+E.T.Track        |  The [standard attention](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) vs our Exemplar Attention on the right 
 :----------------------------------------------------------:|:----------------------------------------------------------:
 <img src='assets/ET.png' align="center" height=400>   |  <img src='assets/V2_att_module.png' align="center" height=300>
 
