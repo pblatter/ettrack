@@ -6,7 +6,7 @@ E.T.Track is up to 8x faster than other transformer-based models, and consistent
 
 E.T.Track        |  Our Exemplar Attention (right) vs the [standard attention](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) 
 :----------------------------------------------------------:|:----------------------------------------------------------:
-<img src='assets/ET.png' align="center" height=300>   |  <img src='assets/V2_att_module.png' align="center" height=300>
+<img src='assets/ET.png' align="center" height=400>   |  <img src='assets/V2_att_module.png' align="center" height=200>
 
 ## Installation
 
