@@ -1,4 +1,4 @@
-name: new
+name: ettrack
 channels:
   - pytorch
   - defaults
@@ -202,3 +202,4 @@ dependencies:
     - werkzeug==2.0.2
     - yacs==0.1.8
     - zipp==3.7.0
+    - wget==3.2
