@@ -1,5 +1,5 @@
 # E.T.Track - Efficient Visual Tracking with Exemplar Transformers
-Official implementation of E.T.Track. 
+Official implementation of [E.T.Track](https://arxiv.org/abs/2112.09686). 
 E.T.Track utilized our proposed Exemplar Transformer, a transformer module utilizing a single instance level attention layer for realtime visual object tracking.
 E.T.Track is up to 8x faster than other transformer-based models, and consistently outperforms competing lightweight trackers that can operate in realtime on standard CPUs. 
 
