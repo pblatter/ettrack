@@ -43,10 +43,11 @@ The sequences comparing E.T.Track and LT-Mobile in the ''Video Visualizations'' 
 If you use this code, please consider citing the following paper:
 
 ```
-@article{blatter2021efficient,
-  title={Efficient Visual Tracking with Exemplar Transformers},
+@inproceedings{blatter2023efficient,
+  title={Efficient visual tracking with exemplar transformers},
   author={Blatter, Philippe and Kanakis, Menelaos and Danelljan, Martin and Van Gool, Luc},
-  journal={arXiv preprint arXiv:2112.09686},
-  year={2021}
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={1571--1581},
+  year={2023}
 }
 ```
