@@ -34,6 +34,7 @@ wget https://data.vision.ee.ethz.ch/kanakism/checkpoint_e35.pth -P ./checkpoints
 
 ## Evaluation
 We evaluate our models using [PyTracking](https://github.com/visionml/pytracking).
+The sequences comparing E.T.Track and LT-Mobile in the ''Video Visualizations'' section can be found [here](https://youtu.be/pkiWST8mRuU).
 * Add the correct dataset in `pytracking/experiments/myexperiments.py` (default: OTB-100)
 * Run `python3 -m pytracking.run_experiment myexperiments et_tracker --threads 0`
 
