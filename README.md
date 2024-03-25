@@ -23,15 +23,6 @@ python -c "from ltr.admin.environment import create_default_local_file; create_d
 * Modify local.py.
     Modify the path files for the evaluation in `pytracking/evaluation/local.py`
 
-
-## Download checkpoints
-
-
-* Trained E.T.Track model for inference:
-```
-wget https://data.vision.ee.ethz.ch/kanakism/checkpoint_e35.pth -P ./checkpoints/et_tracker/ 
-```
-
 ## Evaluation
 We evaluate our models using [PyTracking](https://github.com/visionml/pytracking).
 The sequences comparing E.T.Track and LT-Mobile in the ''Video Visualizations'' section can be found [here](https://youtu.be/pkiWST8mRuU).
